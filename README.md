@@ -24,7 +24,14 @@
 - 📑 **Project Manager** `백엔드 개발` 2025.1 ~ 현재
 - 🏢 **킨도프주식회사** `백엔드 개발 인턴` 2024.11 ~ 2024.12
 - 🧑‍🎓 **내일배움캠프** `Java 5기 수료` 2024.04 ~ 2024.08
-  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seongchankim1&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/seongchankim1?pet-id=686877760729995918"
+    width="600"
+    height="120"
+  />
+</a>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 </div>
