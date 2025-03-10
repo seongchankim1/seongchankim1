@@ -26,7 +26,7 @@
 - 🧑‍🎓 **내일배움캠프** `Java 5기 수료` 2024.04 ~ 2024.08
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seongchankim1&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/seongchankim1?pet-id=686877760729995918"
+    src="https://render.gitanimals.org/lines/seongchankim1"
     width="600"
     height="120"
   />
